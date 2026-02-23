@@ -1,0 +1,326 @@
+[{
+  "_id": "0x38_0xe5bbb701302322acb3504d4a260eec8dc4a36263",
+  "address": "0xe5bbb701302322acb3504d4a260eec8dc4a36263",
+  "symbol": "euros",
+  "idCoingecko": "spiceeuro",
+  "chainId": "0x38",
+  "lastUpdated": {
+    "token": 1679553805
+  }
+},
+{
+  "_id": "0x38_0x6458df5d764284346c19d88a104fd3d692471499",
+  "address": "0x6458df5d764284346c19d88a104fd3d692471499",
+  "symbol": "ieuros",
+  "idCoingecko": "inflation-adjusted-euro",
+  "chainId": "0x38",
+  "lastUpdated": {
+    "token": 1678334391
+  }
+},
+{
+  "_id": "0x38_0x048e9b1ddf9ebbb224812372280e94ccac443f9e",
+  "address": "0x048e9b1ddf9ebbb224812372280e94ccac443f9e",
+  "symbol": "jgbp",
+  "idCoingecko": "jarvis-synthetic-british-pound",
+  "chainId": "0x38",
+  "lastUpdated": {
+    "token": 1709204290
+  }
+},
+{
+  "_id": "0x38_0x5801d0e1c7d977d78e4890880b8e579eb4943276",
+  "address": "0x5801d0e1c7d977d78e4890880b8e579eb4943276",
+  "symbol": "usdo",
+  "chainId": "0x38"
+},
+{
+  "_id": "0x38_0x12f31b73d812c6bb0d735a218c086d44d5fe5f89",
+  "address": "0x12f31b73d812c6bb0d735a218c086d44d5fe5f89",
+  "chainId": "0x38",
+  "idCoingecko": "ageur",
+  "symbol": "ageur",
+  "lastUpdated": {
+    "token": 1709261196
+  }
+},
+{
+  "_id": "0x38_0x2f29bc0ffaf9bff337b31cbe6cb5fb3bf12e5840",
+  "address": "0x2f29bc0ffaf9bff337b31cbe6cb5fb3bf12e5840",
+  "chainId": "0x38",
+  "symbol": "dola",
+  "idCoingecko": "dola-usd",
+  "lastUpdated": {
+    "token": 1709261157
+  }
+},
+{
+  "_id": "0x38_0xde7d1ce109236b12809c45b23d22f30dba0ef424",
+  "address": "0xde7d1ce109236b12809c45b23d22f30dba0ef424",
+  "chainId": "0x38",
+  "idCoingecko": "spiceusd",
+  "symbol": "usds",
+  "lastUpdated": {
+    "token": 1709229214
+  }
+},
+{
+  "_id": "0x38_0x7c869b5a294b1314e985283d01c702b62224a05f",
+  "address": "0x7c869b5a294b1314e985283d01c702b62224a05f",
+  "symbol": "jchf",
+  "idCoingecko": "jarvis-synthetic-swiss-franc",
+  "chainId": "0x38",
+  "lastUpdated": {
+    "token": 1709204336
+  }
+},
+{
+  "_id": "0x38_0x6bf2be9468314281cd28a94c35f967cafd388325",
+  "address": "0x6bf2be9468314281cd28a94c35f967cafd388325",
+  "symbol": "ousd",
+  "idCoingecko": "synth-ousd",
+  "chainId": "0x38",
+  "lastUpdated": {
+    "token": 1709231944
+  }
+},
+{
+  "_id": "0x38_0x1d6cbdc6b29c6afbae65444a1f65ba9252b8ca83",
+  "address": "0x1d6cbdc6b29c6afbae65444a1f65ba9252b8ca83",
+  "symbol": "tor",
+  "idCoingecko": "tor",
+  "chainId": "0x38",
+  "lastUpdated": {
+    "token": 1709261105
+  }
+},
+{
+  "_id": "0x38_0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9",
+  "address": "0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9",
+  "chainId": "0x38",
+  "symbol": "tusd",
+  "idCoingecko": "true-usd",
+  "lastUpdated": {
+    "token": 1709261178
+  }
+},
+{
+  "_id": "0x38_0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+  "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+  "symbol": "bob",
+  "idCoingecko": "bob",
+  "chainId": "0x38",
+  "lastUpdated": {
+    "token": 1709261178
+  }
+},
+{
+  "_id": "0x38_0xfa4ba88cf97e282c505bea095297786c16070129",
+  "address": "0xfa4ba88cf97e282c505bea095297786c16070129",
+  "symbol": "cusd",
+  "idCoingecko": "coin98-dollar",
+  "chainId": "0x38",
+  "lastUpdated": {
+    "token": 1709180342
+  }
+},
+{
+  "_id": "0x38_0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+  "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+  "symbol": "dai",
+  "idCoingecko": "dai",
+  "chainId": "0x38",
+  "lastUpdated": {
+    "token": 1709261140
+  }
+},
+{
+  "_id": "0x38_0x85dab10c3ba20148ca60c2eb955e1f8ffe9eaa79",
+  "address": "0x85dab10c3ba20148ca60c2eb955e1f8ffe9eaa79",
+  "chainId": "0x38",
+  "idCoingecko": "arth",
+  "lastUpdated": {
+    "token": 1709259418
+  },
+  "symbol": "arth"
+},
+{
+  "_id": "0x38_0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba",
+  "address": "0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba",
+  "chainId": "0x38",
+  "idCoingecko": "magic-internet-money",
+  "lastUpdated": {
+    "token": 1709261122
+  },
+  "symbol": "mim"
+},
+{
+  "_id": "0x38_0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+  "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+  "chainId": "0x38",
+  "idCoingecko": "mimatic",
+  "lastUpdated": {
+    "token": 1709261105
+  },
+  "symbol": "mimatic"
+},
+{
+  "_id": "0x38_0xc1fdbed7dac39cae2ccc0748f7a80dc446f6a594",
+  "address": "0xc1fdbed7dac39cae2ccc0748f7a80dc446f6a594",
+  "chainId": "0x38",
+  "idCoingecko": "bilira",
+  "lastUpdated": {
+    "token": 1709261105
+  },
+  "symbol": "tryb"
+},
+{
+  "_id": "0x38_0xe9e7cea3dedca5984780bafc599bd69add087d56",
+  "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+  "chainId": "0x38",
+  "idCoingecko": "binance-peg-busd",
+  "lastUpdated": {
+    "token": 1709261140
+  },
+  "symbol": "busd"
+},
+{
+  "_id": "0x38_0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
+  "address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
+  "chainId": "0x38",
+  "idCoingecko": "frax",
+  "lastUpdated": {
+    "token": 1709261178
+  },
+  "symbol": "frax"
+},
+{
+  "_id": "0x38_0x7b65b489fe53fce1f6548db886c08ad73111ddd8",
+  "address": "0x7b65b489fe53fce1f6548db886c08ad73111ddd8",
+  "chainId": "0x38",
+  "idCoingecko": "iron-bsc",
+  "lastUpdated": {
+    "token": 1709204514
+  },
+  "symbol": "iron"
+},
+{
+  "_id": "0x38_0x23b8683ff98f9e4781552dfe6f12aa32814924e8",
+  "address": "0x23b8683ff98f9e4781552dfe6f12aa32814924e8",
+  "chainId": "0x38",
+  "idCoingecko": "jarvis-synthetic-euro",
+  "lastUpdated": {
+    "token": 1709204316
+  },
+  "symbol": "jeur"
+},
+{
+  "_id": "0x38_0x55d398326f99059ff775485246999027b3197955",
+  "address": "0x55d398326f99059ff775485246999027b3197955",
+  "chainId": "0x38",
+  "idCoingecko": "binance-bridged-usdt-bnb-smart-chain",
+  "lastUpdated": {
+    "token": 1709261140
+  },
+  "symbol": "bsc-usd"
+},
+{
+  "_id": "0x38_0xb5102cee1528ce2c760893034a4603663495fd72",
+  "address": "0xb5102cee1528ce2c760893034a4603663495fd72",
+  "chainId": "0x38",
+  "idCoingecko": "token-dforce-usd",
+  "lastUpdated": {
+    "token": 1709261178
+  },
+  "symbol": "usx"
+},
+{
+  "_id": "0x38_0x14016e85a25aeb13065688cafb43044c2ef86784",
+  "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+  "chainId": "0x38",
+  "idCoingecko": "bridged-trueusd",
+  "lastUpdated": {
+    "token": 1709261178
+  },
+  "symbol": "tusd"
+},
+{
+  "_id": "0x38_0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+  "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+  "chainId": "0x38",
+  "idCoingecko": "binance-bridged-usdc-bnb-smart-chain",
+  "lastUpdated": {
+    "token": 1709261157
+  },
+  "symbol": "usdc"
+},
+{
+  "_id": "0x38_0xd17479997f34dd9156deef8f95a52d81d265be9c",
+  "address": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+  "chainId": "0x38",
+  "idCoingecko": "usdd",
+  "lastUpdated": {
+    "token": 1709261196
+  },
+  "symbol": "usdd"
+},
+{
+  "_id": "0x38_0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
+  "address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
+  "chainId": "0x38",
+  "idCoingecko": "vai",
+  "lastUpdated": {
+    "token": 1709261122
+  },
+  "symbol": "vai"
+},
+{
+  "_id": "0x38_0x23396cf899ca06c4472205fc903bdb4de249d6fc",
+  "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
+  "chainId": "0x38",
+  "idCoingecko": "wrapped-ust",
+  "lastUpdated": {
+    "token": 1709238542
+  },
+  "symbol": "ustc"
+},
+{
+  "_id": "0x38_0xf0186490b18cb74619816cfc7feb51cdbe4ae7b9",
+  "address": "0xf0186490b18cb74619816cfc7feb51cdbe4ae7b9",
+  "chainId": "0x38",
+  "idCoingecko": "zasset-zusd",
+  "lastUpdated": {
+    "token": 1709239489
+  },
+  "symbol": "zusd"
+},
+{
+  "_id": "0x38_0x190b589cf9fb8ddeabbfeae36a813ffb2a702454",
+  "address": "0x190b589cf9fb8ddeabbfeae36a813ffb2a702454",
+  "chainId": "0x38",
+  "symbol": "bdo",
+  "idCoingecko": "bdollar",
+  "lastUpdated": {
+    "token": 1709175185
+  }
+},
+{
+  "_id": "0x38_0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+  "address": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+  "chainId": "0x38",
+  "idCoingecko": "first-digital-usd",
+  "symbol": "fdusd",
+  "lastUpdated": {
+    "token": 1709189482
+  }
+},
+{
+  "_id": "0x38_0x323665443cef804a3b5206103304bd4872ea4253",
+  "address": "0x323665443cef804a3b5206103304bd4872ea4253",
+  "chainId": "0x38",
+  "idCoingecko": "verified-usd-foundation-usdv",
+  "symbol": "usdv",
+  "lastUpdated": {
+    "token": 1709235784
+  }
+}]

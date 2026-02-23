@@ -1,0 +1,42 @@
+services:
+  app:
+    container_name: address_clustering
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        PYTHON_VERSION: "3.11.11"
+        UID: 10001
+
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./shared:/app/shared
+      - ./.data:/app/.data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://localhost:8000/health || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 5
+
+  scheduler:
+    # Reuse the same built image as `app`
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        PYTHON_VERSION: "3.11.11"
+        UID: 10001
+    depends_on:
+      app:
+        condition: service_healthy
+    environment:
+      - API_BASE=http://app:8000
+    volumes:
+      - ./.data:/app/.data
+      - ./shared:/app/shared
+    command: ["uv", "run", "python", "scheduler/main.py"]
+    restart: unless-stopped
